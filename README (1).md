@@ -5,7 +5,6 @@
 ## Table of Content
   * [Problem statment / Why this topic?](#Problem-statment)
   * [Flow Chart / Archeticture](#Flow-chart)
-  * [Directory Tree](#directory-tree)
   * [Quick start](#Quick-start)
   * [Screenshots](#screenshots)
   * [Technical Aspect](#technical-aspect)
@@ -16,7 +15,7 @@
 
   
 ## Problem Statment
-The proposed project would be very useful in the medical field. In the proposed project a machine learning- based web application would be created for medical diagnosis. For a medical diagnosis, a machine learning model would be developed and integrated with the created web application. The user would be able to upload his medical data on the web application. The web application would pass this data to a developed machine learning model for health disease detection. After detection of health disease, if the person wants to take advice from a doctor then he can fix the appointment on the web application. A chat(Email) option would be provided on the web application to provide the communication between the patient and the doctor.
+The proposed project would be very useful in the medical field. In the proposed project a machine learning- based web application would be created for medical diagnosis. For a medical diagnosis, a machine learning model would be developed and integrated with the created web application. The user would be able to upload his medical data on the web application. The web application would pass this data to a developed machine learning model for health disease detection. After detection of health disease, if the person wants to take advice from a doctor then he can fix the appointment on the web application. A chat(Email) option would be provided on the web application to provide the communication between the patient and the doctor. Web Application also have the Database so, Admin can see Patient's Name,Disease and Result of the Prediction.
 
 ## Why this Project?
 Although, we know that humans can do the mistakes but machines doesnt. Plus we can check the predicted outcome accuracy with machine learning. So we go for Machine learning, Keeping this in mind we researched alot in the allopathic, homeopathy and ayurvedic data. Due to less research paper for the data set of patients in homeopathy and ayurvedic we go for allopathic data set that are avalible in Kaggle and UCI machine learning portals.
@@ -25,39 +24,7 @@ Although, we know that humans can do the mistakes but machines doesnt. Plus we c
 ## Flow chart
 Front-end UX/UI, Back-end Machine learning, Deep learning flow chart
   
-https://user-images.githubusercontent.com/62024355/120781058-4fac3300-c546-11eb-83be-dfc8319fd2f3.png  
-  
-  
-  
-## Directory Tree 
-```
-├── Pyhon notebooks code files
-├── trained models.pkl file
-├── static logos
-├── Templates
-│   ├── Home.html
-│   ├── contact.html
-│   ├── about us.html
-│   ├── services.html
-│   ├── css folder
-│   ├── js folder
-│   ├── images folder
-│   └── fonts folder
-│         ├── Diabetes
-│         ├── Breast Cancer
-│         ├── Heart Disease
-│         ├── Kidney Disease
-│         ├── Liver Disease
-│         ├── Malaria
-│         └── Pneumonia
-├── app.py
-├── readme.md
-├── runtime.txt
-└── requirements.txt
-
-
-```
-
+https://user-images.githubusercontent.com/62024355/120781058-4fac3300-c546-11eb-83be-dfc8319fd2f3.png 
   
   
   
@@ -70,16 +37,12 @@ pip install -r requirements.txt
 ```
 **Step-3:** After successfull installation of all the dependencies, run the following command<br>
 ```python
-python app.py
+python manage.py runserver
 ```
 
-```python
-or
-flask run
-```
 **Step-4:** Go to the __New command prompt__ of root folder, run the following commands in new cmd terminal<br> 
 ```
-cd templates
+cd frontend/templates
 index.html
 ```
 
@@ -99,7 +62,7 @@ index.html
 
 ## Technical aspect
 
-This webapp was developed using Flask Web Framework. The models used to predict the diseases were trained on large Datasets. All the links for datasets and the python notebooks used for model creation are mentioned below in this readme. The webapp can predict following Diseases:
+This webapp was developed using Django Web Framework. The models used to predict the diseases were trained on large Datasets. All the links for datasets and the python notebooks used for model creation are mentioned below in this readme. The webapp can predict following Diseases:
 * Diabetes
 * Breast Cancer
 * Heart Disease
@@ -122,7 +85,7 @@ Pneumonia | Deep Learning Model(CNN) | 95%
 
 __NOTE__
 <br>
-==> Python version 3.9.0 was used for the whole project.<br>
+==> Python version 3.6.8 was used for the whole project.<br>
 
 __Dataset Links__
 All the datasets were used from kaggle.
