@@ -1,4 +1,4 @@
-# Medical_Diagnosis |  Medical Diagnosis Web Application
+# Medical_Diagnosis |  Medical Diagnosis Web Application | Django
 
 ![Pyhon 3.4](https://img.shields.io/badge/ide-Jupyter_notebook-blue.svg) ![Python](https://img.shields.io/badge/Language-Python-brightgreen.svg)  ![Frontend](https://img.shields.io/badge/Frontend-Bootstrap-purple.svg)  ![Frontend](https://img.shields.io/badge/Libraries-Streamlit-purple.svg)    ![Bootstrap](https://img.shields.io/badge/BaseEnvironment-AnacondaPrompt-brown.svg)   ![Bootstrap](https://img.shields.io/badge/Deployment-Github-yellow.svg)   ![Bootstrap](https://img.shields.io/badge/Debugging-LocalHost-blue.svg)  
 
@@ -20,13 +20,7 @@ The proposed project would be very useful in the medical field. In the proposed 
 ## Why this Project?
 Although, we know that humans can do the mistakes but machines doesnt. Plus we can check the predicted outcome accuracy with machine learning. So we go for Machine learning, Keeping this in mind we researched alot in the allopathic, homeopathy and ayurvedic data. Due to less research paper for the data set of patients in homeopathy and ayurvedic we go for allopathic data set that are avalible in Kaggle and UCI machine learning portals.
   
-  
-## Flow chart
-Front-end UX/UI, Back-end Machine learning, Deep learning flow chart
-  
-https://user-images.githubusercontent.com/62024355/120781058-4fac3300-c546-11eb-83be-dfc8319fd2f3.png 
-  
-  
+ 
   
 ## Quick start
   
