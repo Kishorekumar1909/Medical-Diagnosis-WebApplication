@@ -49,10 +49,10 @@ index.html
 ![ser](https://github.com/Kishorekumar1909/Medical-Diagnosis-Web-Application/assets/166424022/39d2dbe7-7c90-440f-8a21-d4a62722f732)
 ![pre](https://github.com/Kishorekumar1909/Medical-Diagnosis-Web-Application/assets/166424022/2629e199-52b8-4c2c-b0c3-bf15cf8d40c5)
 ![res](https://github.com/Kishorekumar1909/Medical-Diagnosis-Web-Application/assets/166424022/4cf78581-0376-4f05-93e8-fd8417f480d7)
+![Screenshot (13)](https://github.com/Kishorekumar1909/Medical-Diagnosis-WebApplication/assets/166424022/b2d5dd84-58f8-4bd0-9aa4-e28ba68a4458)
 ![about](https://github.com/Kishorekumar1909/Medical-Diagnosis-Web-Application/assets/166424022/467065e6-f1cb-4b22-b585-0724a164928f)
 ![g2](https://github.com/Kishorekumar1909/Medical-Diagnosis-Web-Application/assets/166424022/5bb229b6-6894-412b-93a0-f9e2f1b61ae4)
 ![g4](https://github.com/Kishorekumar1909/Medical-Diagnosis-Web-Application/assets/166424022/07ea786c-6ab5-4d40-990f-161862c30c0d)
-![Screenshot (13)](https://github.com/Kishorekumar1909/Medical-Diagnosis-WebApplication/assets/166424022/b2d5dd84-58f8-4bd0-9aa4-e28ba68a4458)
   
 
 ## Technical aspect
